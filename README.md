@@ -1,5 +1,5 @@
 # Inventory Tracker
-
+INTERN ID: CITS1980
 An inventory management application for storing and tracking products.
 
 ## Features
